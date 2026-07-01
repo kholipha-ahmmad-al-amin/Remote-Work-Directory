@@ -3,25 +3,67 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useMemo } from "react";
-import { Search, Briefcase, MapPin, SearchX, ExternalLink } from "lucide-react";
+import React, { useState, useMemo, useEffect } from "react";
+import { Search, Briefcase, MapPin, SearchX, ExternalLink, ArrowUp } from "lucide-react";
 import rawData from "./data.json";
 import { Company } from "./types";
 import { motion, AnimatePresence } from "motion/react";
 
 const companies: Company[] = rawData as Company[];
 
+const categories = [
+  { label: 'All', keywords: [] },
+  { label: 'Customer Service', keywords: ['customer', 'support', 'call', 'helpdesk', 'care'] },
+  { label: 'Tech & AI', keywords: ['tech', 'ai ', 'artificial intelligence', 'engineer', 'software'] },
+  { label: 'Sales', keywords: ['sales', 'retention', 'sell'] },
+  { label: 'Data Entry', keywords: ['data entry', 'typing', 'data'] },
+  { label: 'Transcription', keywords: ['transcri', 'caption', 'subtitl', 'translat', 'interpret'] },
+  { label: 'Healthcare', keywords: ['health', 'medical', 'pharmacy', 'nurse', 'medication'] },
+  { label: 'Education', keywords: ['tutor', 'education', 'teach', 'student'] },
+];
+
 export default function App() {
   const [searchTerm, setSearchTerm] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("All");
+  const [showBackToTop, setShowBackToTop] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowBackToTop(window.scrollY > 400);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   const filteredCompanies = useMemo(() => {
+    let result = companies;
+    
+    if (selectedCategory !== "All") {
+      const category = categories.find(c => c.label === selectedCategory);
+      if (category) {
+        result = result.filter(company => {
+          const text = (company.name + " " + company.description).toLowerCase();
+          return category.keywords.some(keyword => text.includes(keyword.toLowerCase()));
+        });
+      }
+    }
+
     const term = searchTerm.toLowerCase();
-    return companies.filter(
-      (company) =>
-        company.name.toLowerCase().includes(term) ||
-        company.description.toLowerCase().includes(term),
-    );
-  }, [searchTerm]);
+    if (term) {
+      result = result.filter(
+        (company) =>
+          company.name.toLowerCase().includes(term) ||
+          company.description.toLowerCase().includes(term),
+      );
+    }
+    
+    return result;
+  }, [searchTerm, selectedCategory]);
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans flex flex-col">
@@ -63,6 +105,22 @@ export default function App() {
             <nav className="text-[10px] text-slate-400 font-bold uppercase tracking-widest">Workspace / Directory</nav>
             <h2 className="text-3xl font-light text-slate-900 tracking-tight">Available <span className="font-bold">Opportunities</span></h2>
           </div>
+        </div>
+
+        <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide -mx-4 px-4 sm:mx-0 sm:px-0">
+          {categories.map((category) => (
+            <button
+              key={category.label}
+              onClick={() => setSelectedCategory(category.label)}
+              className={`whitespace-nowrap px-4 py-2 rounded text-xs font-bold uppercase tracking-widest transition-colors ${
+                selectedCategory === category.label
+                  ? "bg-slate-900 text-white"
+                  : "bg-white text-slate-500 border border-slate-200 hover:bg-slate-50 hover:text-slate-900 hover:border-slate-300"
+              }`}
+            >
+              {category.label}
+            </button>
+          ))}
         </div>
 
         {filteredCompanies.length === 0 ? (
@@ -156,6 +214,23 @@ export default function App() {
           DIRECTORY ONLINE
         </p>
       </footer>
+
+      <AnimatePresence>
+        {showBackToTop && (
+          <motion.button
+            initial={{ opacity: 0, scale: 0.8, y: 20 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            exit={{ opacity: 0, scale: 0.8, y: 20 }}
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+            onClick={scrollToTop}
+            className="fixed bottom-8 right-8 w-12 h-12 bg-slate-900 text-white rounded-full shadow-xl flex items-center justify-center hover:bg-slate-800 transition-colors z-50 focus:outline-none focus:ring-2 focus:ring-slate-900 focus:ring-offset-2"
+            aria-label="Back to top"
+          >
+            <ArrowUp className="w-5 h-5" />
+          </motion.button>
+        )}
+      </AnimatePresence>
     </div>
   );
 }
