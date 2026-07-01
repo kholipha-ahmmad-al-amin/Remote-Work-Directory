@@ -1,0 +1,622 @@
+[
+  {
+    "id": 1,
+    "name": "1800 Flowers",
+    "description": "Hires people to work from home in data entry and in customer service, taking orders over the phone."
+  },
+  {
+    "id": 2,
+    "name": "24/7 In Touch Incorporated",
+    "description": "Work from home as a Tech Support agent or in Customer Service. They also hire people who are fluent in Spanish and English to work from home."
+  },
+  {
+    "id": 3,
+    "name": "AAA",
+    "description": "Work from home as a Call Center rep providing emergency roadside assistance to their customers."
+  },
+  {
+    "id": 4,
+    "name": "Allegis Transcription",
+    "description": "Work from home on your own schedule, transcribing recorded audio files for some of the largest providers in the country."
+  },
+  {
+    "id": 5,
+    "name": "Alorica",
+    "description": "This company is always hiring home agents to service their customers by resolving their questions and concerns."
+  },
+  {
+    "id": 6,
+    "name": "Amazon",
+    "description": "A variety of work at home jobs are available from Amazon. This company hires all over the world and has both phone and non-phone work at home jobs."
+  },
+  {
+    "id": 7,
+    "name": "AMEX",
+    "description": "Hiring Virtual Customer Care Professionals to work from home all year to consult with card members and relay the benefits of card membership. They have several work at home job openings."
+  },
+  {
+    "id": 8,
+    "name": "AM Trace",
+    "description": "Work from home as a Contact Tracer to assist those recently diagnosed with COVID-19, as a Scheduler, and more. They have immediate openings and hire those who reside in California and those with no work experience."
+  },
+  {
+    "id": 9,
+    "name": "Ansafone",
+    "description": "Work from home answering calls from customers who need assistance. This company provides all your equipment and offers benefits."
+  },
+  {
+    "id": 10,
+    "name": "Anthem",
+    "description": "Now hiring remote workers to work from home in Customer Service, Retention, as a Connect Service Group Rep, and more. Comes with hourly pay and benefits."
+  },
+  {
+    "id": 11,
+    "name": "Appen",
+    "description": "This company literally has multiple non-phone work at home job opportunities for independent contractors on a long-term or short-term basis. These are entry-level jobs that do not require previous experience. Hires worldwide."
+  },
+  {
+    "id": 12,
+    "name": "ACD Direct",
+    "description": "This company is currently hiring Home Agents to take calls for non-profit organizations. They are currently looking for people who can work immediately."
+  },
+  {
+    "id": 13,
+    "name": "Activus Connect",
+    "description": "Work from home as an Ambassador for the company in Customer Care, Roadside Support, and more. This company hires in the US and in Puerto Rico. The pay starts at $15 per hour. Full-time with benefits."
+  },
+  {
+    "id": 14,
+    "name": "Babble",
+    "description": "This company needs people to have short 15 minute conversations on topics that you are familiar with or about every day life situations. You can set your own schedule. Pays $17.50 per recorded hour with weekly pay. Hiring people in the US & Canada."
+  },
+  {
+    "id": 15,
+    "name": "Babbletype",
+    "description": "This company is always looking for Transcriptionists and Transcribers to work from home who are accurate and reliable."
+  },
+  {
+    "id": 16,
+    "name": "Bold Business",
+    "description": "Work from home for this company as a Data Enrichment Associate, in Data Entry, as a Recruiter, a Customer Service Rep, and much more. They have full-time jobs with hourly pay that you can start right away."
+  },
+  {
+    "id": 17,
+    "name": "Boom Town",
+    "description": "You can work from home as a Client Care Coordinator contacting real estate leads for clients. Pays $13 per hour with weekly pay and paid training including 401K."
+  },
+  {
+    "id": 18,
+    "name": "Brand Institute",
+    "description": "This company has work from home jobs for those who reside in India, Puerto Rico, and sometimes the United States. They hire content writers, data entry keyers, Call Center reps, and so much more."
+  },
+  {
+    "id": 19,
+    "name": "Broadpath",
+    "description": "A variety of work at home jobs in relation to the healthcare industry. They have immediate and seasonal openings for Analysts, Pharmacy Reps, Customer Care Agents, and more. This company will even give you a free computer."
+  },
+  {
+    "id": 20,
+    "name": "Call Experts",
+    "description": "This company is looking for Call Center Reps to work from home taking calls from customers to accurately type messages into the system summarizing their needs. Full and part-time openings with benefits."
+  },
+  {
+    "id": 21,
+    "name": "Cambly",
+    "description": "Work from home chatting with people from all over the world, helping them to learn English. No certificate or teaching experience is required. Pays by the minute every week. Open worldwide. Set and work your own schedule."
+  },
+  {
+    "id": 22,
+    "name": "Capacity",
+    "description": "Work from home as a Sales Agent or in another department. From time to time, you may find some non-phone jobs."
+  },
+  {
+    "id": 23,
+    "name": "CarMax",
+    "description": "This company has work at home jobs for those who want to work in Customer Service to connect with customers online or by phone to answer their questions. No experience is required with flexible hours."
+  },
+  {
+    "id": 24,
+    "name": "Carvana",
+    "description": "This company hires remote workers to guide customers through the purchase process related to the purchase of a vehicle. Your computer and equipment are provided by the company. Offers hourly pay with benefits and perks."
+  },
+  {
+    "id": 25,
+    "name": "Cass Information Systems",
+    "description": "Work from home as an Office Invoice Payment Specialist entering customer data. This is basically a data entry position requiring you to type at least 9,000 kph working 25 hours a week. Pays $12 per hour with bonuses."
+  },
+  {
+    "id": 26,
+    "name": "Chegg",
+    "description": "This company currently has a variety of work at home careers in the education field to help support students achieve their goals. Competitive salary with benefits."
+  },
+  {
+    "id": 27,
+    "name": "Clickworker",
+    "description": "Another company that is always hiring remote workers to complete a variety of non-phone tasks on your computer or smartphone. The tasks are simple, and allow you to work your own schedule, at your own pace. Open worldwide with weekly pay."
+  },
+  {
+    "id": 28,
+    "name": "Clutter",
+    "description": "This company hires people in California and elsewhere to work from home in Dispatch, Customer Experience Specialists, Engineers, and more. These jobs pay over $20 per hour and will provide your equipment, monthly stipends, and benefits."
+  },
+  {
+    "id": 29,
+    "name": "Colony Brands",
+    "description": "You can work from home in Customer Service taking orders, verifying information, tracking packages, and answering questions. This company offers flexible work schedules, employee discounts, freebies, and more."
+  },
+  {
+    "id": 30,
+    "name": "Concentrix",
+    "description": "Always hiring Sales and service Reps with experience to provide great service to their customers. They have full-time work at home jobs in several states with a competitive salary, benefits, perks, and monthly performance incentives."
+  },
+  {
+    "id": 31,
+    "name": "Conduent",
+    "description": "This company is always recruiting remote workers in Customer Service, Data Entry, Quality Assurance, Processing Associates, etc. These jobs come with paid training, benefits, and other perks."
+  },
+  {
+    "id": 32,
+    "name": "Conversica",
+    "description": "Hiring Customer Support agents to work from home to answer incoming support requests from customers. They also have other work at home jobs you can apply to."
+  },
+  {
+    "id": 33,
+    "name": "CVS Health",
+    "description": "CVS has various work at home jobs in Customer Service and other departments to educate members on their plans, answer questions, resolve issues, etc. You can even receive a $1,000 sign-on bonus."
+  },
+  {
+    "id": 34,
+    "name": "Daily Transcription",
+    "description": "Work from home as an English Transcriber, Subtitler, or Captioner working your own schedule. They hire in the US, UK, Canada, and Australia. Weekly pay."
+  },
+  {
+    "id": 35,
+    "name": "Direct Interactions",
+    "description": "This company hires Customer Service Specialists to work from home to fill their client’s needs. They hire those who are disabled and others. Hourly pay with benefits."
+  },
+  {
+    "id": 36,
+    "name": "Dotdash",
+    "description": "This company hires editors, Article Fact Checkers, Photographers, and other non-phone work at home jobs. The jobs pay very well."
+  },
+  {
+    "id": 37,
+    "name": "Eagle Teleservices",
+    "description": "They are always seeking remote workers to work in Roadside Support to assist commercial vehicles with all their emergency road service needs. You will work weekend, evening, and overnight hours. Monthly performance bonus and benefits."
+  },
+  {
+    "id": 38,
+    "name": "eBay",
+    "description": "Work from home for eBay in Customer Service. They hire in the US, Ireland, and other countries. They offer competitive pay with benefits, Internet reimbursement, a Sabbatical, and more."
+  },
+  {
+    "id": 39,
+    "name": "Elevation Connect",
+    "description": "They have several work at home jobs openings in Travel, Guest Services, Customer Support, and more. No experience is required."
+  },
+  {
+    "id": 40,
+    "name": "Eureka Facts",
+    "description": "Work from home as a Remote Telephone Research Interviewer conducting phone research interviews and surveys with respondents. This is a part-time entry-level work at home job."
+  },
+  {
+    "id": 41,
+    "name": "Exam Works",
+    "description": "Work from home reviewing medical reports and claims. They also hire Quality Assurance Coordinators and nurses to work from home. This company also provides all your computer equipment."
+  },
+  {
+    "id": 42,
+    "name": "Fancy Hands",
+    "description": "Work from home as a Virtual Assistant assisting individuals by finding hotels, scheduling appointments, making phone calls, etc. Work whenever you want."
+  },
+  {
+    "id": 43,
+    "name": "G1 Survey Research",
+    "description": "This company hires telephone interviewers to work from home in opinion research. There is no selling or stress involved. Work from home without any experience anytime, anywhere. Competitive pay and bonuses."
+  },
+  {
+    "id": 44,
+    "name": "Gengo",
+    "description": "Gengo is a Lionbridge company that has remote positions in Engineering and Support Analysts to work from home."
+  },
+  {
+    "id": 45,
+    "name": "GoDaddy",
+    "description": "Help support GoDaddy customers from your home office as a Tech Support Rep. This job pays $18 per hour with benefits. They also hire worldwide and have several work at home job opportunities."
+  },
+  {
+    "id": 46,
+    "name": "Hubspot",
+    "description": "This company always has work at home jobs for those in the US and all over the world in Customer Support, Design, and other categories."
+  },
+  {
+    "id": 47,
+    "name": "Humana",
+    "description": "Another company that always has work at home jobs available in the Healthcare industry. They hire in the US, Puerto Rico, Alaska, and more. Benefits start the first day."
+  },
+  {
+    "id": 48,
+    "name": "Humanatic",
+    "description": "Work from home listening to calls and sorting them into categories working whenever you want. You can do this job from your smartphone or computer. No experience is required. Weekly pay. Open worldwide."
+  },
+  {
+    "id": 49,
+    "name": "ICUC",
+    "description": "This company is always hiring Content Moderators to work from home in the US and Canada to monitor and respond to comments on their clients; social media pages."
+  },
+  {
+    "id": 50,
+    "name": "InfoCision",
+    "description": "Work from home in Customer Service supporting non-profits, the Skincare industry, and more. There is no experience required. Weekly pay and benefits available."
+  },
+  {
+    "id": 51,
+    "name": "Inktel Contact Center Solutions",
+    "description": "You can apply to work from home as an Email Beauty Advisor, Remote Luxury Wine Specialist, Homeware Support, and more. These jobs come with benefits, paid training, and hourly pay."
+  },
+  {
+    "id": 52,
+    "name": "Insurity",
+    "description": "Apply to work from home as a Technical Writer, Product Owner, and more. This company hires in the US and Canada. Health insurance is provided on the first day."
+  },
+  {
+    "id": 53,
+    "name": "Intermedia",
+    "description": "This company has work at home job openings for those who live in the US, UK, and Canada in Sales, Tech Support, Customer Billing, etc."
+  },
+  {
+    "id": 54,
+    "name": "Iubenda",
+    "description": "Work from home if you live in the US, Canada, or Germany in Sales as a Customer Success Agent and more. They will provide you with a learning budget, work equipment, competitive salary, and more."
+  },
+  {
+    "id": 55,
+    "name": "Keyword Studios",
+    "description": "This company hires remote workers from all over the globe to work in Customer Support, as a Gamer Support Agent, Subtitlers, in Translation, and more. Most of the jobs are full-time."
+  },
+  {
+    "id": 56,
+    "name": "L & E Research",
+    "description": "Work from home as a Virtual Service Rep conducting market research with corporate clients, setting up virtual rooms, performing virtual checks for online research, and more. Pays $13 to $16 per hour with a company laptop."
+  },
+  {
+    "id": 57,
+    "name": "Literably",
+    "description": "Apply to work from home listening to audio recordings of students reading to transcribe their errors. Work whenever you want. Pays $10 per hour. No experience is required."
+  },
+  {
+    "id": 58,
+    "name": "Magic Ears",
+    "description": "Work from home teaching young kids English working your own schedule. Pays up to $26 per hour."
+  },
+  {
+    "id": 59,
+    "name": "Mass Mutual",
+    "description": "You can find an abundance of work at home jobs with this company in Administrative work, Claims, Communications, Operations, Technology, etc."
+  },
+  {
+    "id": 60,
+    "name": "Maximus",
+    "description": "This company is known to have hundreds of work at home job openings in Customer Service and other categories. They offer paid training, bonuses, and hourly pay, and some positions will provide you with a free computer."
+  },
+  {
+    "id": 61,
+    "name": "Mercor",
+    "description": "Work from home helping to train AI to be more accurate and reliable. There are several non phone work from home job openings that do not require experience. Other jobs are in specific fields of expertise. They hire in several countries. Pays weekly with exceptionally high hourly rates up to $100 per hour."
+  },
+  {
+    "id": 62,
+    "name": "MDS",
+    "description": "This company is always seeking Call Center Reps to work from home to take donations for organizations and charities. These jobs pay $16 per hour with weekly pay, paid training, weekly bonuses, a free laptop, and benefits."
+  },
+  {
+    "id": 63,
+    "name": "Micro1",
+    "description": "This platform has multiple non-phone work from home job openings in AI. They frequently hire writers, translators, transcribers, video experts, and more. The pay is excellent starting at $40 per hour with weekly pay."
+  },
+  {
+    "id": 64,
+    "name": "ModSquad",
+    "description": "Work from home moderating content, chatting with customers, Customer Service, and many other categories. Most of these jobs are non-phone and require little to no experience. ModSquad hires worldwide."
+  },
+  {
+    "id": 65,
+    "name": "My Employment Options",
+    "description": "This company hires those who receive SSI or SSDI and desire to work from home in Customer Service, Travel, and other categories. They offer free job placement from the Ticket to Work Program."
+  },
+  {
+    "id": 66,
+    "name": "Nelnet",
+    "description": "This company has work from home jobs mostly in Customer Service. The jobs are entry-level and come with hourly pay and benefits."
+  },
+  {
+    "id": 67,
+    "name": "Nielsen",
+    "description": "Nielsen has work at home jobs in Helpline Support, Telephone Interviewers, and other jobs. Most of these jobs are on a part-time basis."
+  },
+  {
+    "id": 68,
+    "name": "Omni Interactions",
+    "description": "This company is always seeking remote workers to provide phone and email support for Fortune 500 companies. You can earn up to $20 per hour setting your own hours in 30-minute blocks."
+  },
+  {
+    "id": 69,
+    "name": "OnBrand 24",
+    "description": "This company is hiring 1,000 remote workers to assist customers with adding or removing products and services, selling new products, resolving support issues, etc. You will receive hourly pay, monthly incentives, paid training, benefits, cash and prize contests, etc."
+  },
+  {
+    "id": 70,
+    "name": "One Forma",
+    "description": "This company has multiple freelance work from home opportunities in Data Collection, Transcription, Annotation, etc. Worldwide openings are available."
+  },
+  {
+    "id": 71,
+    "name": "One Support",
+    "description": "One Support is always hiring in Client Support, Sales, Tech, and Bilingual Support. They offer competitive benefits, on the job training, and do not require certificates or degrees."
+  },
+  {
+    "id": 72,
+    "name": "Outplex",
+    "description": "You can work from home in the US if you live in the Dominican Republic and Colombia. These are entry-level jobs that do not require any previous experience."
+  },
+  {
+    "id": 73,
+    "name": "Pat Live",
+    "description": "Work from home as a Virtual Receptionist answering calls for thousands of businesses all across the country. Offer paid training, and flexible scheduling with hourly pay."
+  },
+  {
+    "id": 74,
+    "name": "Pearl Interactive Network",
+    "description": "This company has virtual job openings in Customer Service, Appointment Setting, and more. Offers great hourly pay, paid time off, and benefits."
+  },
+  {
+    "id": 75,
+    "name": "Pearson",
+    "description": "You can literally find a wide variety of remote opportunities from Pearson. They also hire tutors to work from home. They have worldwide work from home jobs with good pay."
+  },
+  {
+    "id": 76,
+    "name": "Pleio",
+    "description": "Work from home as a Good Starter Mentor helping patients get into a good routine of taking their medications. Pays well."
+  },
+  {
+    "id": 77,
+    "name": "Public Storage",
+    "description": "This company is always hiring Inbound Sales Agents and Customer Service Specialists to work from home to recommend appropriate storage units. The pay is $20 per hour (depending on location) with paid training, benefits, and a $1,000 new hire bonus. This company hires people in California and other states to work remotely."
+  },
+  {
+    "id": 78,
+    "name": "Qurate Retail Group",
+    "description": "This company hires Customer Service Associates to shop with their QVC, HSN, Zulily, and Cornerstone customers and lead them through sales purchases, and assist with returns, refunds, and exchanges. Full-time with paid training."
+  },
+  {
+    "id": 79,
+    "name": "Reesby IT",
+    "description": "This company hires remote workers from all over the world in Sales, Data Entry, Customer Service, Social Media, and more. They also hire in California."
+  },
+  {
+    "id": 80,
+    "name": "Reddit",
+    "description": "This popular company has work at home job openings in their Operations department, Community, Communications, Design, and more."
+  },
+  {
+    "id": 81,
+    "name": "Rev.com",
+    "description": "Work from anywhere as a captioner, transcriber, or subtitling whenever you want. You can also find remote positions on their official career page. This company hires in California also. Weekly pay."
+  },
+  {
+    "id": 82,
+    "name": "SC Data Centers",
+    "description": "You can always find and apply to work at home positions as an Inbound Customer Service Agent where you will take orders, verify information, track packages, and answer customer questions. They offer performance pay and incentives as well as employee discounts."
+  },
+  {
+    "id": 83,
+    "name": "S & P Data",
+    "description": "You can work from home as a Retention Agent, in Sales, Customer Service, or as a Recruiter. This company provides you with paid training, benefits, and hourly pay with uncapped bonuses and incentives."
+  },
+  {
+    "id": 84,
+    "name": "Screen Rant",
+    "description": "Work from home writing and submitting content on various topics. This is an entry-level position that allows you to work from anywhere on your own schedule."
+  },
+  {
+    "id": 85,
+    "name": "Sedgwick",
+    "description": "Another company that consistently has work at home job openings mostly in Customer Service. These are full-time jobs with minimal work experience."
+  },
+  {
+    "id": 86,
+    "name": "Sitel",
+    "description": "Work from home as a Licensed Insurance Agent in Customer Service, Tech Support, etc. They have several work at home jobs openings in the US and abroad."
+  },
+  {
+    "id": 87,
+    "name": "Slingshot Technology",
+    "description": "This company hires remote workers to provide customer service and tech support to their customers. They offer hourly pay with bonuses."
+  },
+  {
+    "id": 88,
+    "name": "SMI",
+    "description": "Work from home job openings are available with this company in Customer Service, Writers, and Data Entry Keyers. These are full-time work at home jobs with benefits."
+  },
+  {
+    "id": 89,
+    "name": "Smith.ai",
+    "description": "Work from home as a Virtual Assistant completing a variety of administrative duties for different businesses and professionals. They hire in the US and all over the world with hourly pay, paid training, and cash bonuses."
+  },
+  {
+    "id": 90,
+    "name": "Startek",
+    "description": "You can find and apply to Customer Service work at home jobs for those who are Bilingual and candidates who only speak English. Full-time with hourly pay."
+  },
+  {
+    "id": 91,
+    "name": "Stella & Dot",
+    "description": "This company is always out on the lookout for Remote Stylists to sell their products, jewelry, handbags, accessories, and more right from your phone or computer."
+  },
+  {
+    "id": 92,
+    "name": "Skybridge Americas",
+    "description": "Apply to work from home in Customer Care or as a Roadside Assistant Specialist. Pays hourly with a $250 sign-on bonus. This company hires in the US and Canada."
+  },
+  {
+    "id": 93,
+    "name": "Support.com",
+    "description": "This company is always hiring Tech Support Reps to work from home but you can also find Customer Service job openings too. They offer paid training, benefits, and 401K."
+  },
+  {
+    "id": 94,
+    "name": "Sutherland Global",
+    "description": "You will get access to global work at home job opportunities in Tech Support, as an Airbnb Customer Care Rep, and more. They offer paid training, hourly pay, incentives, and discounts."
+  },
+  {
+    "id": 95,
+    "name": "Study.com",
+    "description": "You can always find an abundance of non-phone jobs as a Video Creator, reviewing and writing articles, as a Tutor, and many other opportunities. Most of the jobs are entry-level and allow you to work from any location."
+  },
+  {
+    "id": 96,
+    "name": "Teemwork.ai",
+    "description": "You can find and apply to global non-phone work at home job openings in Transcription, Web Search Evaluation, Ads Evaluators, and many more. This company hires worldwide and provides training. No experience is required."
+  },
+  {
+    "id": 97,
+    "name": "Teleflora",
+    "description": "Work from home taking floral and product orders from customers. You will also assist with questions and requests. These are full-time work at home jobs."
+  },
+  {
+    "id": 98,
+    "name": "Telelanguage",
+    "description": "Work from home as an over-the-phone interpreter, video interpreter, in Customer Service, and more. The Customer Service jobs pay $15 per hour working 40 hours a week with benefits."
+  },
+  {
+    "id": 99,
+    "name": "Teleperformance",
+    "description": "Work from home as a Claims Processor, in Customer Service, Tech Support, Sales, and more for this company. Provide paid training, competitive wages, and benefits."
+  },
+  {
+    "id": 100,
+    "name": "Telus International",
+    "description": "You can find so many work at home jobs moderating content, rating ads, helping to keep the Internet safe, etc. This company hires all over the world and does not require previous experience."
+  },
+  {
+    "id": 101,
+    "name": "The Social Element",
+    "description": "This company hires Social Media Moderators all over the world to ensure content posted conforms to their guidelines. They seek remote workers who are fluent in English and other languages to do this from home. Weekend work is required."
+  },
+  {
+    "id": 102,
+    "name": "Transcom",
+    "description": "You can apply to work from home as a Tech Support Advisor helping customers with their accounts or enroll or cancel a service. They will supply you with a computer, paid training, and benefits. Hiring in the US and Canada."
+  },
+  {
+    "id": 103,
+    "name": "Transperfect",
+    "description": "This company has freelance work at home jobs and internal jobs for Bilingual Interpreters. These are full-time positions."
+  },
+  {
+    "id": 104,
+    "name": "Truepill",
+    "description": "You can find some highly skilled work at home jobs and openings for those who prefer to do data entry, in Customer Service (no experience required), and others you can apply to online."
+  },
+  {
+    "id": 105,
+    "name": "TSD Global",
+    "description": "Work from home taking orders for restaurants or as a Call Center Rep. This company has immediate openings with weekly pay, paid training, benefits, and reimbursements for your Internet connection and equipment."
+  },
+  {
+    "id": 106,
+    "name": "TTEC",
+    "description": "TTEC has work at home job opportunities in various categories and only requires minimal experience. They provide hourly pay and hires in 41 states."
+  },
+  {
+    "id": 107,
+    "name": "Tyme Global",
+    "description": "This company is seeking Virtual Assistants to complete various job duties remotely. They hire both in the US & Canada and provide all your equipment and training."
+  },
+  {
+    "id": 108,
+    "name": "Ultius",
+    "description": "This company is always seeking freelance writers to complete writing orders from customers all over the world. You will earn $8 to $25 per page."
+  },
+  {
+    "id": 109,
+    "name": "United Health Group",
+    "description": "You can literally find a plethora of work at home job openings as a Member Advocate, in billing, Customer Service, and more. All jobs come with a variety of perks, benefits, and sign-on bonuses!"
+  },
+  {
+    "id": 110,
+    "name": "Unum",
+    "description": "You can find and apply to several work at home jobs in Claims, Sales, Technology, and more to provide critical and accurate information on benefits, claims, or policy administration."
+  },
+  {
+    "id": 111,
+    "name": "Uscreen",
+    "description": "Work from home as an Internet Researcher, App Setup Specialist, and in other departments."
+  },
+  {
+    "id": 112,
+    "name": "Valor Global",
+    "description": "Provide helpdesk support to customers over the phone. This job does not require experience with hourly pay. Full-time."
+  },
+  {
+    "id": 113,
+    "name": "Verizon",
+    "description": "Work from home in Sales or Customer Service to assist and educate customers as well as build relationships."
+  },
+  {
+    "id": 114,
+    "name": "VIP Desk Connect",
+    "description": "This company has work at home jobs for remote agents called Brand Ambassadors to handle calls from some of the nation’s largest companies. Full-time with benefits."
+  },
+  {
+    "id": 115,
+    "name": "VIQ",
+    "description": "Work from home transcribing audio recordings and providing accurate transcriptions in Law Enforcement, corporate finance, insurance, and other sectors. Flexible work schedule."
+  },
+  {
+    "id": 116,
+    "name": "Wayfair",
+    "description": "This company hires people all over the world to service customers with post-order issues and other concerns. Offers a competitive salary, comprehensive training, and monthly bonuses."
+  },
+  {
+    "id": 117,
+    "name": "Webstaurant Store",
+    "description": "Work from home in Customer Solutions, as a Content Curator, Content Editor, Content Writer, and more. These full-time jobs offer benefits and provide essential computer and equipment to work remotely."
+  },
+  {
+    "id": 118,
+    "name": "Webtoon",
+    "description": "This company is always seeking people to moderate and review all user-generated content. They are looking for people who are interested in online safety and tech-savvy."
+  },
+  {
+    "id": 119,
+    "name": "Welocalize",
+    "description": "You can find and apply to a variety of non-phone jobs/gigs as an Ads Quality Rater, in moderation, translation, Search Quality Rater, Content Reviewer, and more. These are global opportunities with some jobs paying $30 per hour."
+  },
+  {
+    "id": 120,
+    "name": "Windy City Call Center",
+    "description": "This company is always seeking Call Center Reps to handle calls from multiple clients, secure appointments, and other related duties. They provide paid training, benefits, and 401K."
+  },
+  {
+    "id": 121,
+    "name": "Working Solutions",
+    "description": "You can also find and apply to work from home jobs in Customer Service, Travel, Hospitality, Sales, and even jobs that are seasonal."
+  },
+  {
+    "id": 122,
+    "name": "World Travel Holdings",
+    "description": "This company hires and recruits Travel Sales Agents to work from home to assist guests with all their travel needs. Full-time."
+  },
+  {
+    "id": 123,
+    "name": "Yelp",
+    "description": "You can work from home as an Inside Sales Rep or Community ambassador for Yelp. They provide training, salary with uncapped commission, benefits, and 401K."
+  },
+  {
+    "id": 124,
+    "name": "Zapier",
+    "description": "This company has remote work at home job openings for Customer Champions and in other fields. They hire worldwide and offer a competitive salary, benefits, stipends, and an Apple laptop, and will provide you with an additional budget for your home office."
+  }
+]

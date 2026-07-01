@@ -1,11 +1,34 @@
-<div align="center">
+# Remote Work Directory
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A searchable, interactive directory of 124 verified remote companies offering work-from-home opportunities.
 
-  <h1>Built with AI Studio</h2>
+## Features
+* **Fast, Responsive Search**: Filter companies instantly by name or description.
+* **Fluid Animations**: Smooth layout transitions and interactive hover states powered by Framer Motion.
+* **Professional UI**: A clean, slate and blue color palette designed for optimal readability and a modern corporate aesthetic.
+* **Direct Links**: One-click access to search for specific roles at each company.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Tech Stack
+* React 19
+* Vite
+* Tailwind CSS
+* Framer Motion (motion/react)
+* Lucide React Icons
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Getting Started
 
-</div>
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## License
+MIT License

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  <rect x="100" y="100" width="80" height="80" rx="16" fill="#2563eb"/>
+  <rect x="116" y="132" width="48" height="32" rx="4" stroke="white" stroke-width="4"/>
+  <path d="M152 164V124a4 4 0 0 0-4-4h-16a4 4 0 0 0-4 4v40" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="155" font-family="system-ui, sans-serif" font-size="64" font-weight="900" fill="#0f172a" letter-spacing="-1">Remote Work Directory</text>
+  <text x="210" y="200" font-family="system-ui, sans-serif" font-size="24" font-weight="600" fill="#64748b" letter-spacing="2">124 VERIFIED OPPORTUNITIES</text>
+  
+  <rect x="100" y="280" width="480" height="200" rx="24" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="140" y="320" width="60" height="60" rx="12" fill="#1e293b"/>
+  <rect x="220" y="330" width="200" height="16" rx="8" fill="#0f172a"/>
+  <rect x="220" y="360" width="300" height="12" rx="6" fill="#64748b"/>
+  <rect x="140" y="410" width="380" height="12" rx="6" fill="#94a3b8"/>
+  <rect x="140" y="434" width="320" height="12" rx="6" fill="#94a3b8"/>
+
+  <rect x="620" y="280" width="480" height="200" rx="24" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="660" y="320" width="60" height="60" rx="12" fill="#1e293b"/>
+  <rect x="740" y="330" width="240" height="16" rx="8" fill="#0f172a"/>
+  <rect x="740" y="360" width="180" height="12" rx="6" fill="#64748b"/>
+  <rect x="660" y="410" width="380" height="12" rx="6" fill="#94a3b8"/>
+  <rect x="660" y="434" width="280" height="12" rx="6" fill="#94a3b8"/>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "name": "Remote Work Directory",
+  "description": "A comprehensive directory of 124 companies hiring for remote, work-from-home jobs, fully searchable and accessible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
